@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to my Dash" />
         <p className="description">
          <code>Page under construction</code>
         </p>
